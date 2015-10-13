@@ -10,7 +10,7 @@ In the "CompiledGame" directory you will find an app that should work on most co
 Features:
   - Carefully simulated physics. Balls react appropriately when hitting other balls or corners of bricks.
   - Paddle rotation, allowing for fine tuned ball angling.
-  - Color coded special bricks that give can give you an extra ball or ellongate your paddle temporarily.
+  - Color coded special bricks that can give you an extra ball or ellongate your paddle temporarily.
   - Slick color pallet.
   - Fluid controls.
   - Unique safety brick system. No extra lives, just a set of bricks at the bottom of the screen to reflect back your ball. The more balls you have at once, the more likely you are to deplete your safety bricks, but the faster you can complete the level.
