@@ -1,0 +1,1 @@
+To create your own level, create a file called "<level #>.txt". The stage builder will read spaces as empty slots, dashes as regular bricks, and tildas as special bricks. See "2.txt" for an example and make sure to put spaces at the end of lines if you want empty space there.
